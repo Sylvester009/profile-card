@@ -85,7 +85,8 @@ body {
 
 @media screen and (min-width: 800px) {
   body {
-    padding: 10% 20%;
+    height:100vh;
+    justify-content:center;
   }
 }
 
